@@ -1,6 +1,6 @@
 # Prueba FullStack 💻 ⚡️
 
-#### Aplicación simple de listado de cards, y conexión a api utilizando el framework de node js [Express](http://expressjs.com), [NextJS](https://nextjs.org/) y [Redux Toolkit](https://redux-toolkit.js.org/).
+#### Aplicación simple de listado de cards y conexión a api utilizando el framework de node js [Express](http://expressjs.com), [NextJS](https://nextjs.org/) y [Redux Toolkit](https://redux-toolkit.js.org/).
 
 #### Diseñado con [Tailwind](https://tailwindcss.com/) y [DaisyUI](https://daisyui.com/)
 
